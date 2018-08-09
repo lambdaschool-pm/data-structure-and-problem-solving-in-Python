@@ -1,6 +1,6 @@
 # Data Structures, Algorithms and Problem Solving in Python
 
-## Topics:
+## Data Structures Topics:
   * [ ] Lists
   * [ ] Linked Lists
   * [ ] Queues
@@ -18,9 +18,21 @@
   * [ ] Adjacent Matrix
   * [ ] Incident Matrix
 
+## Algorithms Topics:
+  * [ ] Quick Sort
+  * [ ] Bubble Sort
+  * [ ] Heap Sort 
+  * [ ] Selection Sort
+  * [ ] Insertion Sort
+  * [ ] Shell Sort
+  * [ ] Counting Sort
+  * [ ] Radix
+
 ## Tasks
 ### Data Structures
 [ ] Linked Lists
+[ ] Quick Sort
+[ ] Bubble Sort
 
 ### Problems
 
